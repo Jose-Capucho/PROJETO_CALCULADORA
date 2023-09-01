@@ -35,11 +35,11 @@ Desenvolver uma calculadora que permite realizar as operações matemáticas bá
 - Domínio das funcionalidades e eventos do JavaScript para criar uma experiência interativa.
 - Conhecimento prático na implementação de lógica de cálculo.
 
-  ##
+##
 
-  # Imagem do projeto:
+# Imagem do projeto:
 
-  ![image](https://github.com/Jose-Capucho/PROJETO_CALCULADORA/assets/97485966/272c45cc-261b-405c-9545-8901b17e5007)
+![image](https://github.com/Jose-Capucho/PROJETO_CALCULADORA/assets/97485966/272c45cc-261b-405c-9545-8901b17e5007)
 
 
   
