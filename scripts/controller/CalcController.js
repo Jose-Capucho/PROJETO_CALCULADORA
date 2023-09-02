@@ -2,8 +2,8 @@ class CalcController {
     
     constructor () {
 
-        this.displayCalc = "0";
-        this.dataAtual;
+        this._displayCalc = "0";
+        this._dataAtual;
 
     }
 }
