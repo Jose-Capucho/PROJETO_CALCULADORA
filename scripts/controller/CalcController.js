@@ -17,14 +17,22 @@ class CalcController {
 
     }
 
-    async copyToClipboard() {
-        await navigator.clipboard.writeText(this.displayCalc)
+    copyToClipboard(){
+
+        let input = document.createElement('input');
+
+        input.value = this.displayCalc;
+
+        document.body.appendChild(input);
+
+        input.select();
+
+        document.execCommand("Copy");
+
+        input.remove();
+
     }
- 
-    // async pastFromClipboard() {
-    //     let text = await navigator.clipboard.readText();
-    //     this.displayCalc = parseFloat(text);
-    // } 
+
 
     pastFromClipboard(){
 
@@ -93,8 +101,7 @@ class CalcController {
                     this.addOperation(parseInt(e.key));
                     break;
                 case 'c':
-                    if (e.ctrlKey) this.copyToClipboard();
-                    console.log(this.copyToClipboard());
+                    if (!e.ctrlKey) this.copyToClipboard();
                     break;
             }
 
