@@ -37,9 +37,14 @@ Desenvolver uma calculadora que permite realizar as operações matemáticas bá
 
 ##
 
-# Imagem do projeto:
+# Imagens do projeto:
 
-![image](https://github.com/Jose-Capucho/PROJETO_CALCULADORA/assets/97485966/272c45cc-261b-405c-9545-8901b17e5007)
+![image](https://github.com/Jose-Capucho/PROJETO_CALCULADORA/assets/97485966/72b31bac-0bba-442e-9176-c0419780a8d9)
+
+![image](https://github.com/Jose-Capucho/PROJETO_CALCULADORA/assets/97485966/b9a33c99-02a9-48e1-bd11-f4b359edb759)
+
+
+
 
 
   
