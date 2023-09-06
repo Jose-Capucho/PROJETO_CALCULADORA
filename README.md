@@ -5,6 +5,7 @@ Este projeto de Calculadora Interativa é o resultado direto do meu aprendizado 
 - A calculadora oferece funcionalidades avançadas, incluindo a capacidade de utilizar atalhos de teclado (Ctrl+C e Ctrl+V).
 - A manipulação do objeto Date para mostrar data e hora atualizadas em tempo real.
 - E até mesmo a ativação de um efeito sonoro ao acionar determinadas ações (por exemplo, ao clicar duas vezes no botão AC).
+
 ## 
 
 # Objetivo do projeto:
